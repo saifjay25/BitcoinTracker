@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitcoinTracker</string>
+    <string name= "text1">More Info</string>
+    <string name="todo">TODO</string>
+</resources>
